@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#445E99</color>
+    <color name="colorPrimaryDark">#445E99</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_color">#445E99</color>
+    <color name="common_red">#EB0000</color>
+    <color name="bottom_icon_up">#b5b5b5</color>
+    <color name="common_line_two">#dcdcdc</color>
+    <color name="gray_color">#666666</color>
+    <color name="bg_color">#F2F2F2</color>
+    <color name="text_color">#333333</color>
+    <color name="color_f7">#f7f7f7</color>
+    <color name="text_color_gray">#A8A8A8</color>
+    <color name="text_red_color">#fa5a5c</color>
+    <color name="textColor_svprogresshuddefault_msg">#000000</color>
+    <color name="roundColor_svprogresshuddefault">#e5e5e5</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bar_grey">#393a3e</color>
+    <color name="color_f6">#f6f6f6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="blue">#7D7DFF</color>
+    <color name="color_fa">#fafafa</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="color_c51">#f94c51</color>
+    <color name="color_green">#43c117</color>
+    <color name="gray">#cccccc</color>
+
+    <!--customs-->
+    <color name="tab_selected_bg">#C4E1E1</color>
+    <color name="color_546fc0">#546fc0</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_f6f6f8">#f6f6f8</color>
+    <color name="color_000">#000000</color>
+    <color name="color_333">#333333</color>
+    <color name="color_fff">#ffffff</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_1b284a">#1b284a</color>
+    <color name="color_fa5a5c">#fa5a5c</color>
+    <color name="color_a3a3a3">#a3a3a3</color>
+    <color name="color_1a4da8">#1a4da8</color>
+    <color name="color_5566b6">#5566b6</color>
+    <color name="color_1cc568">#1cc568</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_1cc666">#1cc666</color>
+
+    <color name="drop_down_selected">#7B1FA2</color>
+    <color name="drop_down_unselected">#111111</color>
+
+    <color name="mask_color">#88888888</color>
+    <color name="check_bg">#f2f2f2</color>
+    <color name="un_press_color">#9C27B0</color>
+
+    <color name="color1">#FFFFFF</color>
+    <color name="color2">#666666</color>
+    <color name="color3">#D0D0D0</color>
+    <color name="color4">#F6F6F6</color>
+    <color name="color13">#F9974E</color>
+    <color name="color14">#59B29C</color>
+    <color name="color25">#ED5564</color>
+    <color name="color26">#D7D8DC</color>
+
+
+</resources>

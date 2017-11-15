@@ -1,0 +1,24 @@
+<resources>
+
+    <dimen name="base_divider_line_thickness">0.5dp</dimen>
+    <!--等待对话框-->
+    <dimen name="base_progress_lr_padding">18dp</dimen>
+    <dimen name="base_progress_height">44dp</dimen>
+    <dimen name="base_progress_radius">8dp</dimen>
+    <dimen name="base_progress_stoke_width">1dp</dimen>
+    <dimen name="base_progress_text_size">14dp</dimen>
+    <dimen name="base_progress_iv_tv_magin">14dp</dimen>
+
+    <!-- 对话框风格的activity -->
+    <dimen name="base_dlg_activity_btn_cancel_top_margin">6dp</dimen>
+    <dimen name="base_alertdlg_top_padding">10dp</dimen>
+    <dimen name="base_alertdlg_width">270dp</dimen>
+    <dimen name="base_alertdlg_tv_text_size">17sp</dimen>
+    <dimen name="base_alertdlg_small_text_size">14sp</dimen>
+    <dimen name="base_alertdlg_tv_left_right_padding">20dp</dimen>
+    <dimen name="base_alertdlg_btn_text_size">17sp</dimen>
+    <dimen name="base_alertdlg_btn_height">44dp</dimen>
+    <dimen name="base_alertdlg_et_left_right_margin">10dp</dimen>
+
+
+</resources>

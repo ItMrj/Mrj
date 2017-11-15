@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_bg">#f2f2f2</color>
+    <color name="default_blue">#00b5c8</color>
+    <color name="default_bq_gray">#f1f1f1</color>
+
+    <!-- 分割线颜色 -->
+    <color name="base_divider_line">#CCCCCC</color>
+    <!-- 等待对话框 -->
+    <color name="base_progress_dark_bg">#000000</color>
+    <color name="base_progress_dark_border">#343536</color>
+    <color name="base_progress_dark_text_color">#999999</color>
+    <color name="base_progress_light_bg">#F1F1F1</color>
+    <color name="base_progress_light_border">#CCCCCC</color>
+    <color name="base_progress_light_text_color">#CCCCCC</color>
+
+    <!-- 对话框 -->
+    <color name="base_alertdlg_bg">#E7FFFFFF</color>
+    <color name="base_alertdlg_divide_line">#CCCCCC</color>
+    <color name="base_alertdlg_text">#000000</color>
+    <color name="base_alertdlg_btn_normal_text_color">#007AFF</color>
+    <color name="base_alertdlg_btn_disable_text_color">#CCCCCC</color>
+    <color name="base_alertdlg_bindim_passwd_error_text">#FB5B4C</color>
+    <color name="base_alertdlg_registerok_visit_text">#007AFF</color>
+    <color name="base_bg_btn_alertdlg_normal">#00000000</color>
+    <color name="base_bg_btn_alertdlg_pressed">#CCCCCCCC</color>
+</resources>
